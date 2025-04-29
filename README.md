@@ -54,7 +54,7 @@ I am a Full Stack Web Developer with strong experience in both frontend and back
 **Role**: Full Stack Developer  
 **Description**: E-commerce website for baby and kids clothing and shoes. Includes categories, cart, customer accounts, and mobile responsiveness.  
 **Technologies Used**: WordPress, WooCommerce, Elementor, PHP  
-**Live URL**: [Website 1](https://www.barbyhans.com)
+**Live URL**: [View Website](https://www.barbyhans.com)
 
 
 
@@ -63,7 +63,7 @@ I am a Full Stack Web Developer with strong experience in both frontend and back
 **Role**: Full Stack Developer  
 **Description**: A hotel and lodging platform built for Rom House to handle room listings, bookings, availability, and customer contact.  
 **Technologies Used**: WordPress, Booking Plugins, Custom CSS, PHP  
-**Live URL**: [Website 1](https://www.hotel.romhousenetwork.com)
+**Live URL**: [View Website](https://www.hotel.romhousenetwork.com)
 
 
 
