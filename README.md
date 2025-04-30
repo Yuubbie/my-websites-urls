@@ -18,7 +18,7 @@ I am a Full Stack Web Developer with strong experience in both frontend and back
 **Role**: Full Stack Developer  
 **Description**: A WordPress-based online store for selling mobile phones, computers, accessories, and gadgets. Integrated payment gateway, product filters, and admin dashboard.  
 **Technologies Used**: WordPress, WooCommerce, PHP, MySQL  
-**Live URL**: [View Website](https://www.hotel.romhousenetwork.com)
+**Live URL**: [View Website](https://www.mall.romhousenetwork.com)
 
 
 
